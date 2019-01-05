@@ -1,0 +1,5 @@
+﻿  lin81.cpp
+  vector_algos.cpp
+c:\users\rohit\onedrive - uc san diego\wcsn lab\c++practice\msvc_projects\linearcpptest\linearcpptest\vector_algos.cpp(35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  LinearCppTest.vcxproj -> C:\Users\rohit\OneDrive - UC San Diego\WCSN Lab\C++Practice\MSVC_projects\LinearCppTest\x64\Debug\LinearCppTest.exe
